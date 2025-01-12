@@ -7,3 +7,4 @@ Welcome to my Digital Portfolio! My name is Elvie Valmores. I am currently a jun
 
 In terms of work experience, I have worked as an Information Security Intern for Orange County Public Schools, where my responsibilities included configuring firewalls and web filters for schools across Orange County. Currently, I work as a Technical Specialist for Logic Controls, where I develop scripts to automate testing and software implementation across Windows, Linux, and Android systems—streamlining processes and improving efficiency.
 
+[View My Resume](Elvie_Valmores_Resume.pdf)
