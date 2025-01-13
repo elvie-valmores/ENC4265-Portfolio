@@ -2,4 +2,4 @@
 
 # Manual Assessment Memo
 
-This is where my Manual Assessment Memo assignment will be located.
+This is where my Manual Assessment Memo assignment will be located. Edit
