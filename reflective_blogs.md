@@ -89,7 +89,7 @@ Overall, my experience using this website felt weird and unusual. When using the
 *Prompt D: Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post.*
 
 ## Assessment of Crutchfield’s "How to Install a Car Stereo"
-*(https://www.crutchfield.com/SGLAv1c6udsU/learn/learningcenter/car/car_stereo/installation_guide.html)*
+*(https://www.crutchfield.com/S-GLAv1c6udsU/learn/learningcenter/car/car_stereo/installation_guide.html)*
 
 
 ## Effective Aspects:
