@@ -4,6 +4,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
 
 # Wayback Analysis
 
@@ -128,5 +129,27 @@ Given that many users will reference the guide while working on their vehicles, 
 ## Final Thoughts:
 Overall, the Crutchfield Car Stereo Installation Guide is well-structured, informative, and has many visual diagrams. It does a great job in breaking down the installation process into clear steps while offering troubleshooting solutions and additional support. However, improving the wiring instructions, providing vehicle-specific customization options, expanding safety details, and enhancing mobile accessibility would make it even better. With minor fixes, this guide could be better to an even broader audience, from complete beginners to more experienced installers.
 
+---
+# Reflective Blog 4
+
+*Prompt E: Analyze a chatbot (e.g., customer service, virtual assistant). Spend at least 5 minutes interacting with it & exploring its functionality. Then, reflect on the bot’s: purpose (What is the chatbot designed to do?, functionality (how well does it perform its tasks?), user experience (was it easy to use? What were the strengths and weaknesses?), and context (how does it benefit users and the organization?)*
+
+## Walmart Chatbot
+
+### Purpose & Context
+Walmart chatbot aims to help customers with some of their shopping-related issues involving products, order status, returns, and customer service questions. Walmart chatbot offers users immediate responses, which helps in saving the waiting time for live customer service agents. In responding to questions that are repeatedly asked, Walmart chatbot allows the company to achieve optimum customer satisfaction and efficiency.
+
+### Functionality & User Experience
+The chatbot can reply to basic questions about store hours, product stock, and the status of an order. It also provides links to particular pages, such as return policies or tracking details. The chatbot has a direct writing style, often using multiple-choice questions or follow-up questions to specify user questions.
+
+### Strengths
+- Quick responses to frequently asked questions.
+- 24/7 availability for assistance outside customer service hours.
+- Can help locate nearby stores and check product availability.
+
+### Weaknesses
+- Sometimes provides generic responses that don’t fully answer the question.
+- Struggles with complex or specific inquiries, often directing users to customer service instead.
+- May misinterpret user intent, leading to irrelevant responses.
 
 **AI Statement:** I used Grammarly to check my spelling.
