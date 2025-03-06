@@ -5,6 +5,8 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 3](#reflective-blog-5)
+6. [Reflective Blog 4](#reflective-blog-6)
 
 # Wayback Analysis
 
@@ -152,4 +154,63 @@ The chatbot can reply to basic questions about store hours, product stock, and t
 - Struggles with complex or specific inquiries, often directing users to customer service instead.
 - May misinterpret user intent, leading to irrelevant responses.
 
+---
+# Reflective Blog 5
+
+*Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?*
+
+### What Does AI Do Well?
+I used AI to create a sports coach chatbot. In my experience I have come to the conclusion that AI, especially such platforms as ChatGPT and Boodlebox, do very well in creating well-structured outputs quickly and in an efficient manner. It is useful in logical organization of content to create chatbot scripts and educational material easily. One of the largest positives is that AI saves time in providing a good outline instead of creating everything from scratch. Second, AI can well accommodate change in tone and style to suit particular needs. For this bot, I was able to adjust its personality into a more active and energetic coach-like personality so that it would be more interactive and fun for users.
+
+### What Does AI Not Do Well?
+Although it is strong, AI has weaknesses too. One of these is its ability to comprehend context fully. Although it excels at general information, it sometimes fails to achieve the level of meaning needed for specific sports-related definitions. AI is also not original in creativity as it pulls answers from what already exists rather than producing new knowledge. Also, it does not always structure chatbot logic in the most convenient way, and some adjustments are necessary to ensure smooth conversation. Fact-checking is another issue. AI may sometimes provide incorrect or outdated facts, so the input of humans is necessary to verify the accuracy of the response.
+
+### What Did I Have to Correct or Re-Prompt?
+During the course of developing the chatbot, there were a number of aspects of AI-generated text that I needed to tune. The personality of the chatbot initially was neutral, so I had to nudge AI again with an orientation towards generating responses similar to those of a lively coach rather than that of a drab explainer. Some explanations got overly wordy or too technical and had to be simplified and rewritten responses in plain terms. The flow of the chatbot also required modifications to make it more interactive and engaging. Also, HTML generated using AI for embedding the chatbot required some small adjustments to integrate well on my GitHub page.
+
+### What Can I Know About Its Training Data?
+Artificial intelligence systems like ChatGPT learn from gigantic data sets containing public web content, books, articles, Wikipedia, and other open-source publications. These data sets allow AI to provide generic information about sporting rules and bot dialogues. AI does not gain access to actual rulebooks or proprietary sporting organizations' databases in real time. This means that while AI may provide a good overall explanation of rules, it may not necessarily provide the latest updates from official sources like the NBA or NFL rulebooks.
+
+### What Kinds of Data Were Included?
+The information the AI model was trained on was publicly available, including general descriptions of sports rules, general FAQs, and conversational chatbot format. This enabled it to provide basic information about basketball, football, and baseball, and also have structured conversations to help users navigate through the questions in an efficient manner.
+
+### What Kinds of Data Were Excluded?
+While AI possesses a broad range of general knowledge, it does not possess real-time or proprietary information. It has no access to the latest updates directly from official sport associations like the NBA, NFL, or MLB. It also has no team-specific or player-specific information, and hence cannot provide real-time game decisions or analysis based on the latest rule changes. Further, AI never sources data from private or subscription-only sources, and therefore some of the more in-depth or specific rule interpretations are likely to be absent.
+
+### The Future of AI
+As technology in artificial intelligence keeps progressing, chatbots will get wiser and interactive. Future artificial intelligence systems are capable of bringing in real-time data, thus providing users instant notification on update in rules or decisions in specific games. Artificial intelligence will get improved in sensing the intent of users, thereby facilitating more experiential descriptions based on how experienced the user is. Aside from sporting rule establishment, AI has the potential to grow as an imitation trainer giving training tips, explanations of plays, and actual on-the-minute gameplay analysis. AI can forever revolutionize sport training, support among fans, and coach support as breakthrough after breakthrough happen.
+
+---
+# Reflective Blog 6
+
+*Prompt L: Use Voyant to an external site. to analyze a manual, website, or other large body of text. (This is often called "distant reading" in contrast to traditional "close reading" you do in literature courses.) What words are used the most? What can this software tell you about a piece of writing?*
+
+![image](https://github.com/user-attachments/assets/d899dbc9-990f-494a-b43e-1a6ea4b6b250)
+
+### What words are used the most? 
+From the Voyant Tools analysis of the NFL Rulebook, the most frequently used words in the text are:
+
+- "ball" (4,445 times)
+- "team" (2,490 times)
+- "foul" (1,716 times)
+- "line" (1,514 times)
+- "pass" (1,399 times)
+
+These words indicate a strong focus on game mechanics, such as possession of the ball, team dynamics, penalties (fouls), field positioning (line), and passing rules.
+
+### What Can This Software Tell Us About a Piece of Writing?
+Voyant Tools provides insights into the structure, focus, and terminology of a document. For the NFL Rulebook, the analysis reveals:
+
+1. Key Concepts & Priorities – The frequent mention of "ball," "team," and "foul" suggests that these are core elements of the game, with specific rules governing possession, teamwork, and infractions.
+
+2. Rulebook Structure – The document likely contains highly repetitive, rule-based language, reinforcing specific terminology that ensures clarity in officiating.
+
+3. Trends & Emphasis – The trend graph shows how different terms appear across various segments of the rulebook, indicating sections that emphasize particular rules or gameplay mechanics.
+
+4. Readability & Complexity – The Readability Index (7.465) suggests that the text is somewhat technical but still accessible to a general audience with sports knowledge.
+
+### Conclusion
+Voyant Tools helps identify which words dominate the text, giving insight into the themes, structure, and language style of the NFL Rulebook. This can be useful for understanding how rulebooks prioritize key aspects of a sport and how frequently different game elements are discussed.
+
+---
 **AI Statement:** I used Grammarly to check my spelling.
