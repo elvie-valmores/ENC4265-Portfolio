@@ -5,8 +5,8 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
-5. [Reflective Blog 3](#reflective-blog-5)
-6. [Reflective Blog 4](#reflective-blog-6)
+5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
 
 # Wayback Analysis
 
