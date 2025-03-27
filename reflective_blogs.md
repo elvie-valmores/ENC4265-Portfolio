@@ -7,6 +7,8 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
+8. [Reflective Blog 8](#reflective-blog-8)
 
 # Wayback Analysis
 
@@ -211,6 +213,39 @@ Voyant Tools provides insights into the structure, focus, and terminology of a d
 
 ### Conclusion
 Voyant Tools helps identify which words dominate the text, giving insight into the themes, structure, and language style of the NFL Rulebook. This can be useful for understanding how rulebooks prioritize key aspects of a sport and how frequently different game elements are discussed.
+
+---
+# Reflective Blog 6
+
+*Prompt N: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 **AI Statement:** I used Grammarly to check my spelling.
