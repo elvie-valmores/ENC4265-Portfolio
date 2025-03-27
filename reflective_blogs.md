@@ -215,37 +215,25 @@ Voyant Tools provides insights into the structure, focus, and terminology of a d
 Voyant Tools helps identify which words dominate the text, giving insight into the themes, structure, and language style of the NFL Rulebook. This can be useful for understanding how rulebooks prioritize key aspects of a sport and how frequently different game elements are discussed.
 
 ---
-# Reflective Blog 6
+# Reflective Blog 7
 
 *Prompt N: Use NotebookLM to analyze a manual from the web. Share a brief report describing your process, the manual, and your thoughts on the tool. What did it make easier for you? What was not easy? What do you think about the use of this AI for your future career?*
 
+### Manual Chosen:
 
+For this assignment, I chose the 2019 Honda Accord Owner’s Manual from manua.ls.
 
+### Process Using NotebookLM:
+I uploaded the manual to NotebookLM and used it to interact with the content more efficiently. I asked the tool questions like “How do I activate cruise control?” and “What does the exclamation point warning light mean?” NotebookLM scanned the entire manual and provided direct answers, referencing the specific sections where that information could be found. It felt like having a smart assistant guide me through a large technical document.
 
+### What the Tool Made Easier:
+NotebookLM made it much easier to navigate a complex manual without reading hundreds of pages. It quickly summarized information, answered my questions accurately, and helped me locate specific content without needing to manually search through the PDF. This was especially useful for a document that’s over 600 pages long.
 
+### What Was Not Easy:
+There were a few moments when NotebookLM misunderstood my question or gave slightly vague responses. I had to rephrase some of my queries to get better results. Also, uploading the manual took a little time because of its file size. Aside from those minor issues, the tool worked very well overall.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Thoughts on Using AI Like This in My Future Career:
+As someone pursuing a future in cybersecurity and IT, I see a lot of value in using AI tools like NotebookLM. These tools can help break down long technical documents, compliance manuals, and system guide. Using AI to speed up understanding and decision-making can be a big advantage in both technical and management roles. I believe tools like this will be essential in my future career for improving productivity, reducing research time, and ensuring accuracy when working with complex information.
 
 ---
-**AI Statement:** I used Grammarly to check my spelling.
+**AI Statement:** I used Grammarly to check my spelling. I used ChatGPT 4o to help summarize my findings. I used Notebook LM as required by the assignment.
