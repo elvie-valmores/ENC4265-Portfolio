@@ -236,4 +236,32 @@ There were a few moments when NotebookLM misunderstood my question or gave sligh
 As someone pursuing a future in cybersecurity and IT, I see a lot of value in using AI tools like NotebookLM. These tools can help break down long technical documents, compliance manuals, and system guide. Using AI to speed up understanding and decision-making can be a big advantage in both technical and management roles. I believe tools like this will be essential in my future career for improving productivity, reducing research time, and ensuring accuracy when working with complex information.
 
 ---
+# Reflective Blog 8
+
+*Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn?*
+
+[My Resume](Elvie_Valmores_Resume.pdf)
+
+### Summary of Suggested Changes:
+
+After uploading my resume to Microsoft Copilot, it recommended tailoring my content more clearly toward cybersecurity roles. Specifically, Copilot:
+
+- Suggested titles I’m suited for: **Cybersecurity Analyst**, **Security Engineer**, **Penetration Tester**, etc.
+- Recommended clearer bullet points emphasizing **technical achievements**, **scope of impact**, and **measurable results**.
+- Enhanced project descriptions with specific tools and outcomes.
+- Refined language to make it more action-oriented and concise (e.g., “Developed scripts to automate security measures…” instead of general duties).
+- Highlighted certifications prominently to align with job requirements.
+
+### Reflection:
+
+Copilot was surprisingly effective at reframing my resume for the cybersecurity field. It not only identified job roles aligned with my background but also reworded my experiences to make them more results-driven and employer-focused. 
+
+I learned the importance of:
+- Quantifying my impact (e.g., "200+ laptops" or "7 VMs")
+- Using industry-relevant tools and language
+- Prioritizing readability and clarity in project and job descriptions
+
+It was a helpful reminder that even strong resumes can benefit from AI-driven polish, especially when trying to break into a competitive field like cybersecurity.
+
+---
 **AI Statement:** I used Grammarly to check my spelling. I used ChatGPT 4o to help summarize my findings. I used Notebook LM as required by the assignment.
