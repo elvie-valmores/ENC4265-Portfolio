@@ -98,6 +98,9 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 3. On Windows, check the box to install WinPcap/Npcap (required for packet capturing)  
 4. Complete installation and restart if prompted
 
+![Wireshark Download Page](https://github.com/user-attachments/assets/e8c653ce-f34f-49ae-b99f-6c5e4598b5c1)
+*Figure 2: Wireshark official download page.*
+
 ## First-Time Configuration
 
 - Launch Wireshark  
@@ -120,6 +123,9 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 2. Let it run while you perform normal network activity  
 3. Observe traffic populating in real-time
 
+![Wireshark Live Capture](https://github.com/user-attachments/assets/8934dca1-5173-48bc-b89e-56ea95a431b7)
+*Figure 3: Live packet capture in progress.*
+
 ## Stopping and Saving a Capture
 
 - Click the red square icon to stop  
@@ -139,6 +145,10 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 - Expands selected packet details by protocol layers  
 - Click arrows to view Ethernet, IP, TCP, HTTP details
 
+![Wireshark Packet Details](https://github.com/user-attachments/assets/b0098531-b8c3-41a1-8136-5a8eb4acb37c)
+
+*Figure 4: Detailed view of an individual packet’s contents.*
+
 ## Follow TCP Stream
 
 - Right-click a TCP packet → **Follow** → **TCP Stream**  
@@ -153,6 +163,9 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 - `ip.addr == 192.168.0.1` — traffic to/from a specific IP  
 - `tcp.port == 80` — traffic over a specific port  
 - `http` — only HTTP traffic
+
+![Wireshark Display Filter Example](https://github.com/user-attachments/assets/ef08b60c-63dd-4997-aa47-2e9bd4e5e734)
+*Figure 5: Applying a display filter to isolate traffic.*
 
 ## Common Protocol Filters
 
@@ -197,9 +210,13 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 
 ## TCP Three-Way Handshake
 
-- Syn → Syn+Ack → Ack is the normal connection setup  
+- Syn → Syn+Ack → Ack is the normal connection setup
 - Packet loss or retransmission may indicate connectivity issues  
 - Filter: `tcp.flags.syn == 1 and tcp.flags.ack == 0`
+
+![TCP Handshake Packets](https://github.com/user-attachments/assets/aacd0474-5a5d-47f5-a71e-5252ba3e65cd)
+
+*Figure 6: Three-way handshake between a client and a server.*
 
 ## ARP and MAC Resolution
 
@@ -259,6 +276,10 @@ This manual is intended to bridge the gap between theory and practice, giving yo
 - Use **File → Export Specified Packets** for filtered results  
 - Anonymize data if needed using **Editcap** or **TraceWrangler**  
 - Share `.pcap` with security teams for collaborative analysis
+
+![Wireshark Export PCAP](https://github.com/user-attachments/assets/98653202-c64e-427b-8aa4-7767ac16dc44)
+
+*Figure 7: Exporting captured packets as a .pcap file.*
 
 ---
 
