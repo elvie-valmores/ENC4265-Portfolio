@@ -7,13 +7,12 @@
 
 ---
 
-> ![Wireshark Interface Screenshot](https://github.com/user-attachments/assets/d571d09b-bf61-4d8b-8eb9-99b32b07f755)
-
-> *Figure 1: Wireshark capturing live network traffic.*
+![Wireshark Interface Screenshot](https://github.com/user-attachments/assets/d571d09b-bf61-4d8b-8eb9-99b32b07f755)
+*Figure 1: Wireshark capturing live network traffic.*
 
 ---
 
-> *This manual provides a hands-on, step-by-step approach to using Wireshark for analyzing network traffic. Whether you’re a cybersecurity student or a new analyst, this guide will teach you how to install Wireshark, capture packets, apply filters, and identify suspicious activity on a network.*
+*This manual provides a hands-on, step-by-step approach to using Wireshark for analyzing network traffic. Whether you’re a cybersecurity student or a new analyst, this guide will teach you how to install Wireshark, capture packets, apply filters, and identify suspicious activity on a network.*
 
 # Table of Contents
 
